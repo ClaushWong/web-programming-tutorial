@@ -1,0 +1,11 @@
+Array (Email) :
+.length
+.split
+.join
+.indexOf
+
+x = ["gmail","hotmail",...]
+
+if (@x.com){
+    console.log("Valid");
+}
